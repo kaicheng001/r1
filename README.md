@@ -15,6 +15,31 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation
+  with Reinforcement Learning](https://arxiv.org/abs/2505.17022) | [gogoduan/GoT-R1](https://github.com/gogoduan/GoT-R1) | - | - | - | 2025.05.22 |
+| [Bottlenecked Transformers: Periodic KV Cache Abstraction for Generalised
+  Reasoning](https://arxiv.org/abs/2505.16950) | - | - | - | - | 2025.05.22 |
+| [Fact-R1: Towards Explainable Video Misinformation Detection with Deep
+  Reasoning](https://arxiv.org/abs/2505.16836) | - | - | - | - | 2025.05.22 |
+| [KTAE: A Model-Free Algorithm to Key-Tokens Advantage Estimation in
+  Mathematical Reasoning](https://arxiv.org/abs/2505.16826) | - | - | - | - | 2025.05.22 |
+| [UFT: Unifying Supervised and Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.16984) | - | - | - | - | 2025.05.22 |
+| [R1-Compress: Long Chain-of-Thought Compression via Chunk Compression and
+  Search](https://arxiv.org/abs/2505.16838) | [w-yibo/R1-Compress](https://github.com/w-yibo/R1-Compress) | - | - | - | 2025.05.22 |
+| [Code Graph Model (CGM): A Graph-Integrated Large Language Model for
+  Repository-Level Software Engineering Tasks](https://arxiv.org/abs/2505.16901) | - | [Models](https://huggingface.co/Qwen2.5-72B) | - | - | 2025.05.22 |
+| [SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward](https://arxiv.org/abs/2505.17018) | [kxfan2002/SophiaVL-R1](https://github.com/kxfan2002/SophiaVL-R1) | - | - | - | 2025.05.22 |
+| [OpenSeg-R: Improving Open-Vocabulary Segmentation via Step-by-Step
+  Visual Reasoning](https://arxiv.org/abs/2505.16974) | [Hanzy1996/OpenSeg-R](https://github.com/Hanzy1996/OpenSeg-R) | - | - | - | 2025.05.22 |
+| [Think or Not? Selective Reasoning via Reinforcement Learning for
+  Vision-Language Models](https://arxiv.org/abs/2505.16854) | [kokolerk/TON](https://github.com/kokolerk/TON) | - | - | - | 2025.05.22 |
+| [Chain-of-Thought Poisoning Attacks against R1-based Retrieval-Augmented
+  Generation Systems](https://arxiv.org/abs/2505.16367) | - | - | - | - | 2025.05.22 |
+| [ConvSearch-R1: Enhancing Query Reformulation for Conversational Search
+  with Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.15776) | - | - | - | - | 2025.05.21 |
+| [StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy
+  Optimization](https://arxiv.org/abs/2505.15107) | [zxh20001117/StepSearch](https://github.com/zxh20001117/StepSearch) | - | - | - | 2025.05.21 |
+| [ThinkRec: Thinking-based recommendation via LLM](https://arxiv.org/abs/2505.15091) | [Yu-Qi-hang/ThinkRec](https://github.com/Yu-Qi-hang/ThinkRec) | - | - | - | 2025.05.21 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
