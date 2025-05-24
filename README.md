@@ -74,4 +74,4 @@ Contributions are welcome! This list is continuously updated. If you have any su
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=kaicheng001/awesome-r1&type=Date)](https://star-history.com/#kaicheng001/awesome-r1&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=kaicheng001/r1&type=Date)](https://star-history.com/#kaicheng001/r1&Date)
