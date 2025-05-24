@@ -185,7 +185,12 @@ Respond with only "YES" if this paper should be included in the awesome-R1 colle
 
                     if self.classify_paper_with_llm(title, abstract):
                         arxiv_id = entry.id.split("/")[-1]
+                        # published_date = date_parser.parse(entry.published)
+                        # 处理日期 - 使用第一个版本的上传时间
                         published_date = date_parser.parse(entry.published)
+                        # 如果有更早版本，获取最早版本的时间
+                        arxiv_id_base = arxiv_id.split('v')[0]  # 移除版本号
+                        # 使用arxiv API获取第一版本时间（简化处理，直接使用published时间）
 
                         authors = []
                         if hasattr(entry, "authors"):
@@ -336,12 +341,13 @@ Respond with only "YES" if this paper should be included in the awesome-R1 colle
     def run(self):
         """主运行函数"""
         logger.info("🤖 Starting R1 Paper Scanner...")
-
+        
         existing_papers = self.load_existing_papers()
-        all_papers = self.search_arxiv_papers(days_back=1)
-
+        all_papers = self.search_arxiv_papers(days_back=3)  # 改为3天
+        
         new_papers = [
-            paper for paper in all_papers if paper["arxiv_id"] not in existing_papers
+            paper for paper in all_papers 
+            if paper['arxiv_id'] not in existing_papers
         ]
 
         if not new_papers:
