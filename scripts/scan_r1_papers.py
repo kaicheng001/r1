@@ -52,7 +52,11 @@ class R1PaperScanner:
         api_key = os.getenv("OPENAI_API_KEY")
         if not api_key:
             raise ValueError("OPENAI_API_KEY environment variable is required")
-        self.client = OpenAI(api_key=api_key)
+        self.client = OpenAI(
+            api_key=api_key,
+            # base_url="https://api.openai-hub.com/v1"  # OpenAI-Hub的基础URL
+            base_url="https://vip.apiyi.com/v1"  # API易的基础URL
+        )
 
         self.classification_prompt = """
 You are an expert in machine learning and AI research. Your task is to determine if a research paper is about R1-style reasoning models, following the pattern established by DeepSeek-R1.
