@@ -15,6 +15,17 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [Towards Revealing the Effectiveness of Small-Scale Fine-tuning in
+  R1-style Reinforcement Learning](https://arxiv.org/abs/2505.17988) | [on1262/deep-reasoning](https://github.com/on1262/deep-reasoning) | - | - | - | 2025.05.23 |
+| [Beyond Distillation: Pushing the Limits of Medical LLM Reasoning with
+  Minimalist Rule-Based RL](https://arxiv.org/abs/2505.17952) | - | - | - | - | 2025.05.23 |
+| [One RL to See Them All: Visual Triple Unified Reinforcement Learning](https://arxiv.org/abs/2505.18129) | [Code](https://github.com/MiniMax-AI) | - | - | - | 2025.05.23 |
+| [Planning without Search: Refining Frontier LLMs with Offline
+  Goal-Conditioned RL](https://arxiv.org/abs/2505.18098) | - | - | - | - | 2025.05.23 |
+| [Survival Games: Human-LLM Strategic Showdowns under Severe Resource
+  Scarcity](https://arxiv.org/abs/2505.17937) | - | - | - | - | 2025.05.23 |
+| [Co-Reinforcement Learning for Unified Multimodal Understanding and
+  Generation](https://arxiv.org/abs/2505.17534) | - | - | - | - | 2025.05.23 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
