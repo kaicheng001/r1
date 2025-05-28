@@ -15,6 +15,14 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [Reinforcing General Reasoning without Verifiers](https://arxiv.org/abs/2505.21493) | [sail-sg/VeriFree](https://github.com/sail-sg/VeriFree) | - | - | - | 2025.05.27 |
+| [Scaling External Knowledge Input Beyond Context Windows of LLMs via
+  Multi-Agent Collaboration](https://arxiv.org/abs/2505.21471) | - | - | - | - | 2025.05.27 |
+| [LMCD: Language Models are Zeroshot Cognitive Diagnosis Learners](https://arxiv.org/abs/2505.21239) | [TAL-auroraX/LMCD](https://github.com/TAL-auroraX/LMCD) | - | - | - | 2025.05.27 |
+| [Walk Before You Run! Concise LLM Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.21178) | - | - | - | - | 2025.05.27 |
+| [LoFT: Low-Rank Adaptation That Behaves Like Full Fine-Tuning](https://arxiv.org/abs/2505.21289) | - | - | - | - | 2025.05.27 |
+| [Cross from Left to Right Brain: Adaptive Text Dreamer for
+  Vision-and-Language Navigation](https://arxiv.org/abs/2505.20897) | [zhangpingrui/Adaptive-Text-Dreamer](https://github.com/zhangpingrui/Adaptive-Text-Dreamer) | - | - | - | 2025.05.27 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
