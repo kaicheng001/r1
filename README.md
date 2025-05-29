@@ -15,6 +15,28 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [Maximizing Confidence Alone Improves Reasoning](https://arxiv.org/abs/2505.22660) | - | - | - | - | 2025.05.28 |
+| [3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large
+  Language Model](https://arxiv.org/abs/2505.22657) | - | - | - | - | 2025.05.28 |
+| [Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635) | - | - | - | - | 2025.05.28 |
+| [Self-Error-Instruct: Generalizing from Errors for LLMs Mathematical
+  Reasoning](https://arxiv.org/abs/2505.22591) | - | - | - | - | 2025.05.28 |
+| [Mitigating Overthinking in Large Reasoning Models via Manifold Steering](https://arxiv.org/abs/2505.22411) | [Aries-iai/Manifold_Steering](https://github.com/Aries-iai/Manifold_Steering) | - | - | - | 2025.05.28 |
+| [The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in
+  Learning to Reason](https://arxiv.org/abs/2505.22653) | [trestad/Noisy-Rewards-in-Learning-to-Reason](https://github.com/trestad/Noisy-Rewards-in-Learning-to-Reason) | - | - | - | 2025.05.28 |
+| [Emotion-o1: Adaptive Long Reasoning for Emotion Understanding in LLMs](https://arxiv.org/abs/2505.22548) | - | - | - | - | 2025.05.28 |
+| [Skywork Open Reasoner 1 Technical Report](https://arxiv.org/abs/2505.22312) | - | - | - | - | 2025.05.28 |
+| [Compensating for Data with Reasoning: Low-Resource Machine Translation
+  with LLMs](https://arxiv.org/abs/2505.22293) | - | [Models1](https://huggingface.co/gpt-3.5)<br/>[Models2](https://huggingface.co/gpt-4o)<br/>[Models3](https://huggingface.co/o1-mini)<br/>[Models4](https://huggingface.co/LLaMA-3.3)<br/>[Models5](https://huggingface.co/DeepSeek-R1) | - | - | 2025.05.28 |
+| [On Learning Verifiers for Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.22650) | - | - | - | - | 2025.05.28 |
+| [SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation
+  via Reinforcement Learning](https://arxiv.org/abs/2505.22596) | - | - | - | - | 2025.05.28 |
+| [Beyond path selection: Better LLMs for Scientific Information Extraction
+  with MimicSFT and Relevance and Rule-induced(R$^2$)GRPO](https://arxiv.org/abs/2505.22068) | [ranlislz/R2GRPO](https://github.com/ranlislz/R2GRPO) | - | - | - | 2025.05.28 |
+| [Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented
+  Generation](https://arxiv.org/abs/2505.20773) | - | - | - | - | 2025.05.27 |
+| [What LLMs Miss in Recommendations: Bridging the Gap with
+  Retrieval-Augmented Collaborative Signals](https://arxiv.org/abs/2505.20730) | - | - | - | - | 2025.05.27 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
