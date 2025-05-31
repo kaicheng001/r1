@@ -15,6 +15,28 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [DeepTheorem: Advancing LLM Reasoning for Theorem Proving Through Natural
+  Language and Reinforcement Learning](https://arxiv.org/abs/2505.23754) | - | - | - | - | 2025.05.29 |
+| [SC-LoRA: Balancing Efficient Fine-tuning and Knowledge Preservation via
+  Subspace-Constrained LoRA](https://arxiv.org/abs/2505.23724) | - | - | - | - | 2025.05.29 |
+| [Fortune: Formula-Driven Reinforcement Learning for Symbolic Table
+  Reasoning in Language Models](https://arxiv.org/abs/2505.23667) | - | - | - | - | 2025.05.29 |
+| [Segment Policy Optimization: Effective Segment-Level Credit Assignment
+  in RL for Large Language Models](https://arxiv.org/abs/2505.23564) | [AIFrameResearch/SPO](https://github.com/AIFrameResearch/SPO) | - | - | - | 2025.05.29 |
+| [Don't Take the Premise for Granted: Evaluating the Premise Critique
+  Ability of Large Language Models](https://arxiv.org/abs/2505.23715) | [MLGroupJLU/Premise_Critique](https://github.com/MLGroupJLU/Premise_Critique) | - | - | - | 2025.05.29 |
+| [Table-R1: Inference-Time Scaling for Table Reasoning](https://arxiv.org/abs/2505.23621) | - | - | - | - | 2025.05.29 |
+| [On-Policy RL with Optimal Reward Baseline](https://arxiv.org/abs/2505.23585) | [main/opo](https://github.com/microsoft/LMOps/tree/main/opo) | - | - | - | 2025.05.29 |
+| [Revisiting Overthinking in Long Chain-of-Thought from the Perspective of
+  Self-Doubt](https://arxiv.org/abs/2505.23480) | - | - | - | - | 2025.05.29 |
+| [Continuous Chain of Thought Enables Parallel Exploration and Reasoning](https://arxiv.org/abs/2505.23648) | - | - | - | - | 2025.05.29 |
+| [Grounded Reinforcement Learning for Visual Reasoning](https://arxiv.org/abs/2505.23678) | - | - | - | - | 2025.05.29 |
+| [Qwen Look Again: Guiding Vision-Language Reasoning Models to
+  Re-attention Visual Information](https://arxiv.org/abs/2505.23558) | [Liar406/Look_Again](https://github.com/Liar406/Look_Again) | - | - | - | 2025.05.29 |
+| [Verify-in-the-Graph: Entity Disambiguation Enhancement for Complex Claim
+  Verification with Interactive Graph Representation](https://arxiv.org/abs/2505.22993) | - | [Models](https://huggingface.co/Meta-Llama-3-70B) | - | - | 2025.05.29 |
+| [Beyond path selection: Better LLMs for Scientific Information Extraction
+  with MimicSFT and Relevance and Rule-induced(R$^2$)GRPO](https://arxiv.org/abs/2505.22068) | [ranlislz/R2GRPO](https://github.com/ranlislz/R2GRPO) | - | - | - | 2025.05.28 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
