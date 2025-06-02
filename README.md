@@ -15,6 +15,18 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in
+  Large Language Models](https://arxiv.org/abs/2505.24864) | - | [nvidia/Nemotron-Research-Reasoning-Qwen-1.5B](https://huggingface.co/nvidia/Nemotron-Research-Reasoning-Qwen-1.5B) | - | - | 2025.05.30 |
+| [Harnessing Negative Signals: Reinforcement Distillation from Teacher
+  Data for LLM Reasoning](https://arxiv.org/abs/2505.24850) | - | - | - | - | 2025.05.30 |
+| [The Hallucination Dilemma: Factuality-Aware Reinforcement Learning for
+  Large Reasoning Models](https://arxiv.org/abs/2505.24630) | - | [Models1](https://huggingface.co/Qwen2.5)<br/>[Models2](https://huggingface.co/Llama) | - | - | 2025.05.30 |
+| [AlphaOne: Reasoning Models Thinking Slow and Fast at Test Time](https://arxiv.org/abs/2505.24863) | - | - | - | - | 2025.05.30 |
+| [Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.24726) | - | - | - | - | 2025.05.30 |
+| [ReasonGen-R1: CoT for Autoregressive Image generation models through SFT
+  and RL](https://arxiv.org/abs/2505.24875) | - | - | - | - | 2025.05.30 |
+| [Reinforcing Video Reasoning with Focused Thinking](https://arxiv.org/abs/2505.24718) | [longmalongma/TW-GRPO](https://github.com/longmalongma/TW-GRPO) | - | - | - | 2025.05.30 |
+| [CodeV-R1: Reasoning-Enhanced Verilog Generation](https://arxiv.org/abs/2505.24183) | - | - | - | - | 2025.05.30 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
