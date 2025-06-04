@@ -15,6 +15,15 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [Critique-GRPO: Advancing LLM Reasoning with Natural Language and
+  Numerical Feedback](https://arxiv.org/abs/2506.03106) | - | [Models1](https://huggingface.co/Qwen2.5-7B-Base)<br/>[Models2](https://huggingface.co/Qwen3-8B-Base) | - | - | 2025.06.03 |
+| [EgoVLM: Policy Optimization for Egocentric Video Understanding](https://arxiv.org/abs/2506.03097) | - | - | - | - | 2025.06.03 |
+| [TO-GATE: Clarifying Questions and Summarizing Responses with Trajectory
+  Optimization for Eliciting Human Preference](https://arxiv.org/abs/2506.02827) | - | - | - | - | 2025.06.03 |
+| [RACE-Align: Retrieval-Augmented and Chain-of-Thought Enhanced Preference
+  Alignment for Large Language Models](https://arxiv.org/abs/2506.02726) | - | - | - | - | 2025.06.03 |
+| [Computational Thinking Reasoning in Large Language Models](https://arxiv.org/abs/2506.02658) | - | - | - | - | 2025.06.03 |
+| [Compiler Optimization via LLM Reasoning for Efficient Model Serving](https://arxiv.org/abs/2506.01374) | - | - | - | - | 2025.06.02 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
