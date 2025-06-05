@@ -15,6 +15,22 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged
+  Reinforcement Learning](https://arxiv.org/abs/2506.04207) | - | - | - | - | 2025.06.04 |
+| [Multimodal Tabular Reasoning with Privileged Structured Information](https://arxiv.org/abs/2506.04088) | - | - | - | - | 2025.06.04 |
+| [Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to
+  Enhance LLM Reasoning](https://arxiv.org/abs/2506.03939) | [gjq100/Graph-Counselor](https://github.com/gjq100/Graph-Counselor.git) | - | - | - | 2025.06.04 |
+| [R-Search: Empowering LLM Reasoning with Search via Multi-Reward
+  Reinforcement Learning](https://arxiv.org/abs/2506.04185) | [QingFei1/R-Search](https://github.com/QingFei1/R-Search) | - | - | - | 2025.06.04 |
+| [SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and
+  Module Decoupling](https://arxiv.org/abs/2506.04179) | [EIT-NLP/SkipGPT](https://github.com/EIT-NLP/SkipGPT) | - | - | - | 2025.06.04 |
+| [EPiC: Towards Lossless Speedup for Reasoning Training through
+  Edge-Preserving CoT Condensation](https://arxiv.org/abs/2506.04205) | - | - | - | - | 2025.06.04 |
+| [Boosting Open-Source LLMs for Program Repair via Reasoning Transfer and
+  LLM-Guided Reinforcement Learning](https://arxiv.org/abs/2506.03921) | - | - | - | - | 2025.06.04 |
+| [A Multi-agent LLM-based JUnit Test Generation with Strong Oracles](https://arxiv.org/abs/2506.02943) | - | - | - | - | 2025.06.03 |
+| [Computational Thinking Reasoning in Large Language Models](https://arxiv.org/abs/2506.02658) | - | - | - | - | 2025.06.03 |
+| [Compiler Optimization via LLM Reasoning for Efficient Model Serving](https://arxiv.org/abs/2506.01374) | - | - | - | - | 2025.06.02 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
