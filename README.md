@@ -15,6 +15,19 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via
+  Spatial Reasoning](https://arxiv.org/abs/2506.05341) | - | - | - | - | 2025.06.05 |
+| [Just Enough Thinking: Efficient Reasoning with Adaptive Length Penalties
+  Reinforcement Learning](https://arxiv.org/abs/2506.05256) | - | - | - | - | 2025.06.05 |
+| [Knowledgeable-r1: Policy Optimization for Knowledge Exploration in
+  Retrieval-Augmented Generation](https://arxiv.org/abs/2506.05154) | [lcy80366872/knowledgeable-r1](https://github.com/lcy80366872/knowledgeable-r1) | - | - | - | 2025.06.05 |
+| [Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance
+  LLM Recommendation](https://arxiv.org/abs/2506.05069) | - | - | - | - | 2025.06.05 |
+| [Mathematical Reasoning for Unmanned Aerial Vehicles: A RAG-Based
+  Approach for Complex Arithmetic Reasoning](https://arxiv.org/abs/2506.04998) | - | - | - | - | 2025.06.05 |
+| [Verbose ListOps (VLO): Beyond Long Context -- Unmasking LLM's Reasoning
+  Blind Spots](https://arxiv.org/abs/2506.04907) | - | - | - | - | 2025.06.05 |
+| [Inference-Time Hyper-Scaling with KV Cache Compression](https://arxiv.org/abs/2506.05345) | - | - | - | - | 2025.06.05 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
