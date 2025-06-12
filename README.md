@@ -15,6 +15,14 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [OctoNav: Towards Generalist Embodied Navigation](https://arxiv.org/abs/2506.09839) | - | - | - | - | 2025.06.11 |
+| [CoRT: Code-integrated Reasoning within Thinking](https://arxiv.org/abs/2506.09820) | [ChengpengLi1003/CoRT.](https://github.com/ChengpengLi1003/CoRT.) | - | - | - | 2025.06.11 |
+| [Resa: Transparent Reasoning Models via SAEs](https://arxiv.org/abs/2506.09967) | - | - | - | - | 2025.06.11 |
+| [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790) | - | - | - | - | 2025.06.11 |
+| [Give Me FP32 or Give Me Death? Challenges and Solutions for Reproducible
+  Reasoning](https://arxiv.org/abs/2506.09501) | [nanomaoli/llm_reproducibility.](https://github.com/nanomaoli/llm_reproducibility.) | - | - | - | 2025.06.11 |
+| [Understanding the Performance and Power of LLM Inferencing on Edge
+  Accelerators](https://arxiv.org/abs/2506.09554) | - | - | - | - | 2025.06.11 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
