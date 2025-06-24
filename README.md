@@ -15,6 +15,18 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory,
+  Compositional, and Transformative Generalization](https://arxiv.org/abs/2506.18880) | - | - | - | - | 2025.06.23 |
+| [LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement
+  Learning](https://arxiv.org/abs/2506.18841) | - | [THU-KEG/LongWriter-Zero-32B](https://huggingface.co/THU-KEG/LongWriter-Zero-32B) | - | - | 2025.06.23 |
+| [ConciseHint: Boosting Efficient Reasoning via Continuous Concise Hints
+  during Generation](https://arxiv.org/abs/2506.18810) | - | - | - | - | 2025.06.23 |
+| [ReDit: Reward Dithering for Improved LLM Policy Optimization](https://arxiv.org/abs/2506.18631) | - | - | - | - | 2025.06.23 |
+| [ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought
+  Reasoning in LLMs](https://arxiv.org/abs/2506.18896) | [Gen-Verse/ReasonFlux](https://github.com/Gen-Verse/ReasonFlux) | - | - | - | 2025.06.23 |
+| [Existing LLMs Are Not Self-Consistent For Simple Tasks](https://arxiv.org/abs/2506.18781) | [scorpio-nova/llm-self-consistency.](https://github.com/scorpio-nova/llm-self-consistency.) | - | - | - | 2025.06.23 |
+| [Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving
+  with Reinforcement Learning](https://arxiv.org/abs/2506.18234) | - | - | - | - | 2025.06.23 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
