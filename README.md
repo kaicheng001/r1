@@ -15,6 +15,12 @@ DeepSeek-R1 introduced a new paradigm of reasoning in large language models. Thi
 
 | Paper                                                | Code                                   | Models                                      | Dataset | Project Page                        | Date    |
 | ---------------------------------------------------- | -------------------------------------- | ------------------------------------------- | ------- | ----------------------------------- | ------- |
+| [Mobile-R1: Towards Interactive Reinforcement Learning for VLM-Based
+  Mobile Agent via Task-Level Rewards](https://arxiv.org/abs/2506.20332) | - | - | - | - | 2025.06.25 |
+| [MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670) | - | - | - | - | 2025.06.25 |
+| [Enhancing Large Language Models through Structured Reasoning](https://arxiv.org/abs/2506.20241) | - | - | - | - | 2025.06.25 |
+| [Accurate and Energy Efficient: Local Retrieval-Augmented Generation
+  Models Outperform Commercial Large Language Models in Medical Tasks](https://arxiv.org/abs/2506.20009) | - | - | - | - | 2025.06.24 |
 | [R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs  via Reinforcement Learning](https://arxiv.org/abs/2505.17005) | [R1-Searcher-plus](https://github.com/RUCAIBox/R1-Searcher-plus) | - | - | - | 2025.05.22 |
 | [UniVG-R1: Reasoning Guided Universal Visual Grounding with Reinforcement Learning](https://arxiv.org/abs/2505.14231) | [AMAP-ML/UniVG-R1](https://github.com/AMAP-ML/UniVG-R1) | - | - | [UniVG-R1-page](https://amap-ml.github.io/UniVG-R1-page/) | 2025.05.20 |
 | [Table-R1: Region-based Reinforcement Learning for Table Understanding](https://arxiv.org/abs/2505.12415) | - | - | TableInstruct, TableBench, WikiTQ | - | 2025.05.18 |  
